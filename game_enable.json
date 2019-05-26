@@ -2,7 +2,7 @@
   "game_enable": [
     {
       "name": "tetris_game",
-      "enable": false
+      "enable": true
     }
   ]
 }
