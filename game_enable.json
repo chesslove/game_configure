@@ -1,7 +1,8 @@
 {
   "game_enable": [
     {
-      "game_01": true
+      "name": "tetris_game",
+      "enable": true
     }
   ]
 }
