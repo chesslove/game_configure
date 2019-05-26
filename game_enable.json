@@ -1,5 +1,7 @@
 {
-  "game_enable": {
-    "game_01": true
-  }
+  "game_enable": [
+    {
+      "game_01": true
+    }
+  ]
 }
