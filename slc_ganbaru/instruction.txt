@@ -1,0 +1,20 @@
+﻿Gửi mọi người link app để ôn tập để chuẩn bị cho kì thi sắp tới:
+- Tính năng:
++ Trả lời các câu hỏi theo dạng điền/chọn đáp án.
++ Hệ thống sẽ tự động theo dõi kết quả, câu nào đã trả lời đúng sẽ không bị hỏi lại để tiết kiệm thời gian.
++ Tùy chỉnh Font chữ trong Setting.
+- Download:
++ Android:
+https://i.diawi.com/7NhPAu
++ iOS:
+https://i.diawi.com/JsNioy
+Hướng dẫn cài đặt:
+- iOS:
++ Mở link ở trên bằng Safari > Chọn Install Application > Chọn Install.
++ Sau khi cài đặt xong vào Setting > General > Profile & Device Management > Chọn One Technology Corp > Chọn Trust
+- Android:
++ Mở link ở trên bằng trình duyệt bất kì (Chrome) để download.
++ Mở file đã download về để tiến hành cài đặt.
++ Nếu không cài đặt được do bị Play Protect block:
+1. Mở Google Play app > Chọn Play Protect > Chọn Setting (nút trên cùng bên phải) > Tắt Scan Device For Security Threats
+2. Vào Setting > Biometrics And Security > Chọn Install Unknown Apps > Chọn Chrome > Bật Allow
